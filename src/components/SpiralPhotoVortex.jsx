@@ -20,7 +20,7 @@ export default function SpiralPhotoVortex({ title = "The 3D Gallery of Memories"
     for (let i = 0; i < localImages.length && list.length < 24; i += step) {
       list.push({
         id: i,
-        src: `/images/${localImages[i]}`,
+        src: `images/${localImages[i]}`,
         name: `Memory #${list.length + 1}`,
       });
     }

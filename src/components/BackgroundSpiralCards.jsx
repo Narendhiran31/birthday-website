@@ -13,7 +13,7 @@ export default function BackgroundSpiralCards({ opacity = 0.85 }) {
     const start = (currentBatch * count) % Math.max(1, localImages.length - count);
     return localImages.slice(start, start + count).map((img, i) => ({
       id: i,
-      src: `/images/${img}`,
+      src: `images/${img}`,
     }));
   }, [currentBatch]);
 

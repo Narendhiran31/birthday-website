@@ -12,7 +12,7 @@ export const birthdayData = {
   birthdayDate: "2026-11-14",
 
   // Uploaded personal profile photo
-  heroImage: "/profile.jpg",
+  heroImage: "profile.jpg",
 
   // Recipient email for FormSubmit wish delivery
   recipientEmail: "narendhiran972@gmail.com",
@@ -42,9 +42,9 @@ export const birthdayData = {
       emojis: ["🌸", "✨", "💖", "💫"],
       highlights: ["Pure Magic ✨", "Heartwarming Laughs 😂", "Unmatched Grace 💖"],
       photos: [
-        "/images/IMG-20250630-WA0000.jpg",
-        "/images/IMG-20250630-WA0002.jpg",
-        "/images/IMG-20250630-WA0003.jpg"
+        "images/IMG-20250630-WA0000.jpg",
+        "images/IMG-20250630-WA0002.jpg",
+        "images/IMG-20250630-WA0003.jpg"
       ]
     },
     {
@@ -58,9 +58,9 @@ export const birthdayData = {
       emojis: ["😂", "🥳", "🥰", "✨"],
       highlights: ["Endless Giggles 😆", "Pure Chaos & Fun 🥳", "Unforgettable Vibes 💫"],
       photos: [
-        "/images/IMG-20250630-WA0004.jpg",
-        "/images/IMG-20250630-WA0005.jpg",
-        "/images/IMG-20250630-WA0006.jpg"
+        "images/IMG-20250630-WA0004.jpg",
+        "images/IMG-20250630-WA0005.jpg",
+        "images/IMG-20250630-WA0006.jpg"
       ]
     },
     {
@@ -74,9 +74,9 @@ export const birthdayData = {
       emojis: ["🌟", "👑", "💪", "🏆"],
       highlights: ["Fierce Strength 💪", "Graceful Resilience 👑", "Shining Bright 🌟"],
       photos: [
-        "/images/IMG-20250630-WA0007.jpg",
-        "/images/IMG-20250630-WA0008.jpg",
-        "/images/IMG-20250630-WA0010.jpg"
+        "images/IMG-20250630-WA0007.jpg",
+        "images/IMG-20250630-WA0008.jpg",
+        "images/IMG-20250630-WA0010.jpg"
       ]
     },
     {
@@ -90,9 +90,9 @@ export const birthdayData = {
       emojis: ["🌷", "🕊️", "💖", "🤍"],
       highlights: ["True Kindness 🤍", "Peace & Comfort 🕊️", "Rare Soul 💖"],
       photos: [
-        "/images/IMG-20251113-WA0013.jpg",
-        "/images/IMG-20251113-WA0014.jpg",
-        "/images/IMG-20251113-WA0015.jpg"
+        "images/IMG-20251113-WA0013.jpg",
+        "images/IMG-20251113-WA0014.jpg",
+        "images/IMG-20251113-WA0015.jpg"
       ]
     },
     {
@@ -106,9 +106,9 @@ export const birthdayData = {
       emojis: ["👑", "🎂", "🎉", "🚀"],
       highlights: ["Grand Dreams 💫", "Endless Joy 🌈", "Happy Birthday Priya 🎂"],
       photos: [
-        "/images/IMG-20251113-WA0016.jpg",
-        "/images/IMG-20251113-WA0017.jpg",
-        "/images/IMG-20251113-WA0018.jpg"
+        "images/IMG-20251113-WA0016.jpg",
+        "images/IMG-20251113-WA0017.jpg",
+        "images/IMG-20251113-WA0018.jpg"
       ]
     }
   ],
@@ -157,42 +157,42 @@ export const birthdayData = {
   gallery: [
     {
       id: 1,
-      url: "/images/IMG-20250630-WA0000.jpg",
+      url: "images/IMG-20250630-WA0000.jpg",
       caption: "Golden light and glowing smile",
       tag: "Memories",
       fullText: "A moment etched in time, reflecting pure happiness and warmth."
     },
     {
       id: 2,
-      url: "/images/IMG-20251113-WA0019.jpg",
+      url: "images/IMG-20251113-WA0019.jpg",
       caption: "Unfiltered laughter & joy",
       tag: "Candid",
       fullText: "Midway through a burst of uncontrollable giggles. The best kind of candid memory."
     },
     {
       id: 3,
-      url: "/images/IMG_20260113_125003_224.jpg",
+      url: "images/IMG_20260113_125003_224.jpg",
       caption: "Chasing bright horizons",
       tag: "Adventures",
       fullText: "Embracing new journeys and dreaming big under open skies."
     },
     {
       id: 4,
-      url: "/images/IMG_20260113_125010_501.jpg",
+      url: "images/IMG_20260113_125010_501.jpg",
       caption: "Celebrations & cheerful vibes",
       tag: "Celebration",
       fullText: "Good energy, sweet smiles, and moments that make life truly precious."
     },
     {
       id: 5,
-      url: "/images/IMG_20251113_202455.jpg",
+      url: "images/IMG_20251113_202455.jpg",
       caption: "Quiet talks & shared dreams",
       tag: "Heart to Heart",
       fullText: "Conversations where truths are shared, hearts connect, and bonds grow stronger."
     },
     {
       id: 6,
-      url: "/images/IMG-20260809-WA0002.jpg",
+      url: "images/IMG-20260809-WA0002.jpg",
       caption: "Reaching new heights",
       tag: "Milestones",
       fullText: "Standing proud and looking ahead at all the beauty life holds for you."

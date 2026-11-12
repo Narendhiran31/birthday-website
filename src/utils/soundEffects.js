@@ -21,7 +21,7 @@ class SoundEngine {
 
   initAudioPlayer() {
     try {
-      this.bgAudio = new Audio('/bgm.mp3');
+      this.bgAudio = new Audio('bgm.mp3');
       this.bgAudio.loop = true;
       this.bgAudio.volume = this.volume;
       this.bgAudio.preload = 'auto';
